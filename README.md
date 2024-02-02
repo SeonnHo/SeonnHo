@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=header" />
+
 - 👋 Hi, I’m @SeonnHo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,6 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer" />
 <!---
 SeonnHo/SeonnHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
